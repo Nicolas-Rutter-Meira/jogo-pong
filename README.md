@@ -1,2 +1,2 @@
-# jogo-pong
-jogo de computador
+# pongtwo
+Jogo pong no JavaScript
